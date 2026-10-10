@@ -6,7 +6,7 @@ public  class leap{
         
 
 
-        int n=2020;
+        int n=2026;
 
         if(n%4==0){
             System.out.println("leap");
