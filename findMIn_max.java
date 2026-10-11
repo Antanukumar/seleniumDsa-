@@ -17,7 +17,7 @@ public class findMIn_max {
         int largest=num[0];
 
 
-         for(int i=1;i<num.length;i++){
+        for(int i=1;i<num.length;i++){
 
             if(num[i]<smallest){
                 smallest=num[i];
