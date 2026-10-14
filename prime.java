@@ -1,4 +1,4 @@
-class Geeks
+class prime
 {
     static boolean isPrime(int n)
     {
@@ -14,7 +14,7 @@ class Geeks
         return true;
     }
 
-    // Driver Program
+    
     public static void main(String args[])
     {
         if (isPrime(11))
