@@ -20,7 +20,7 @@ public class primate {
 
     public static void main(String[] args) {
 
-        int n = 10;
+        int n = 11;
 
         primate(n);
     }
